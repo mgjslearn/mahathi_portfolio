@@ -46,7 +46,10 @@ const renderContent = {
         >
             Hi! My name is <span className="font-semibold"> Mahathi Gumudavelli</span> 👋
             <br />
-            A Computer Science major at Georgia Tech graduating in December 2025. Click the space bar to navigate through my journey!
+            A Computer Science major at Georgia Tech graduating in December 2025. 
+            <br />
+            Click the space bar to navigate through my journey! You can also the right and left keys to control the computer animation!
+            
         </h1>
     ),
     2: (
