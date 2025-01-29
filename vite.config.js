@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.glb'],
-  base: '/mahathi_portfolio/',  // Add this line and replace [repo-name] with your actual repo name
+  base: '/mahathi_portfolio/', 
 })
